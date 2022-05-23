@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { StyledEngineProvider, Theme, ThemeProvider, createTheme } from '@mui/material/styles';
+import { StyledEngineProvider, Theme, ThemeProvider, createTheme } from '@mui/material';
 import { appConfig, getProfiles, getThemes, refreshLanguageInApiCall } from 'configs/appConfig';
 
 import { changeCurrentLanguage } from 'configs/i18n';

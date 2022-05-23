@@ -17,7 +17,7 @@ const project = {
         neutral_05: '#F5F7FA'
     },
     interactive: {
-        interactive_01: '#0B69A3',
+        interactive_01: '#FF0000',
         interactive_02: '#486581',
         interactive_01_hover: '#0B5A8B'
     },
